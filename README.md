@@ -1,3 +1,9 @@
+# DEPRECATED
+
+This project is deprecated and no longer in development. All code has been migrated to the [BioCommons](https://github.com/tzok/BioCommons) library.
+
+This repository is now archived and read-only.
+
 # Circular
 A library for the analysis of circular data
 
